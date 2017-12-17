@@ -1,0 +1,29 @@
+{
+  "name": "@qiqo/entity-attribute",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rdrrichards/entity-attribute"
+  },
+  "author": {
+    "name": "R Richards",
+    "email": "rdrrichards@hotmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/rdrrichards/entity-attribute/issues"
+  },
+  "main": "entity-attribute.umd.js",
+  "module": "entity-attribute.js",
+  "jsnext:main": "entity-attribute.js",
+  "typings": "entity-attribute.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^5.0.0",
+    "@angular/forms": "^5.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
