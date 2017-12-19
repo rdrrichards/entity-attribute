@@ -22,7 +22,7 @@
     "strictMetadataEmit": true,
     "skipTemplateCodegen": true,
     "flatModuleOutFile": "entity-attribute.js",
-    "flatModuleId": "@qiqo/entity-attribute"
+    "flatModuleId": "@rdrrichards/entity-attribute"
   },
   "files": [
     "./index.ts"

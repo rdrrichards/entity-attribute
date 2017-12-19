@@ -1,4 +1,4 @@
-# @qiqo/entity-attribute
+# @rdrrichards/entity-attribute
 
 This library is not on NPM at this time.
 
@@ -7,7 +7,7 @@ This library is not on NPM at this time.
 To install this library, run:
 
 ```bash
-$ npm install qiqo/entity-attribute --save
+$ npm install @rdrrichards/entity-attribute --save
 ```
 
 and then from your Angular `AppModule`:
@@ -19,7 +19,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 // Import your library
-import { AttributeModule } from 'qiqo/entity-attribute';
+import { AttributeModule } from '@rdrrichards/entity-attribute';
 
 @NgModule({
   declarations: [
@@ -52,4 +52,4 @@ Once the library is imported, you can use its components, directives and pipes i
 
 ## License
 
-MIT © [R Richards](mailto:rdrrichards@hotmail.com)
+MIT © [R Richards](mailto:rdrrichardsiii@gmail.com)
