@@ -1,6 +1,6 @@
 # @rdrrichards/entity-attribute
 
-This library is not on NPM at this time.
+Attribute components library for usage in the Angular client applications I am building.
 
 ## Installation
 
