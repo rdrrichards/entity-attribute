@@ -31,5 +31,15 @@ Desktop.ini
 # Build files
 dist/*
 
+
 # Playground tmp files
 .playground
+playground
+playground/*
+
+# Karma transform
+init-test-bed.spec.js
+src/**/*.js
+
+# coverage
+coverage
